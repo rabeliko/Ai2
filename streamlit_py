@@ -73,7 +73,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
-    # },
+    # },s[0] : ("texts" : ["중국식 냉면은 맛있어"], "images" : [" 
+       labels[1]: ("texts" : ["짜장면은 맛있어"], "images" : [" 
+labels[2] : ("texts" : ["짧봉은 맛있어"], "images" : ["
+labels[3] : ("texts" : ["탕수육은 맛있어"], "images" : ["
+
 }
 
 # ======================
